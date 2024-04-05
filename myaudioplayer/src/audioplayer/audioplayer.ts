@@ -12,8 +12,8 @@ export function createAudioplayer(
   onStateChange: (state: PlayerState) => void,
 ): Controls {
   let currentTrackIndex = 0;
-  let repeat = false;
-  let shuffle = false;
+  let repeat = true;
+  let shuffle = true;
   const playbackHistory: Array<number> = [];
   const audioElement: HTMLAudioElement = new Audio();
 
