@@ -76,7 +76,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackFive,
     metadata: {
-      title: 'victony',
+      title: 'AV',
       artist: 'Dino',
       coverArtSrc: coverArtFive,
     },
@@ -84,7 +84,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackSix,
     metadata: {
-      title: 'victony',
+      title: 'AV',
       artist: 'Dino',
       coverArtSrc: coverArtSix,
     },
@@ -92,7 +92,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackSeven,
     metadata: {
-      title: 'victony',
+      title: 'Bobby',
       artist: 'Dino',
       coverArtSrc: coverArtSeven,
     },
@@ -100,7 +100,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackEight,
     metadata: {
-      title: 'victony',
+      title: 'Boy-spyc',
       artist: 'Dino',
       coverArtSrc: coverArtEight,
     },
@@ -108,7 +108,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackNine,
     metadata: {
-      title: 'Rexxie',
+      title: 'Brown',
       artist: 'Dino',
       coverArtSrc: coverArtNine,
     },
@@ -116,7 +116,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackTen,
     metadata: {
-      title: 'DJ-Neptune',
+      title: 'Carlos',
       artist: 'Dino',
       coverArtSrc: coverArtTen,
     },
@@ -124,7 +124,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackEleven,
     metadata: {
-      title: 'Dj-Big',
+      title: 'Central',
       artist: 'Dino',
       coverArtSrc: coverArtEleven,
     },
@@ -132,7 +132,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackTwelve,
     metadata: {
-      title: 'crayon',
+      title: 'Ckay',
       artist: 'Dino',
       coverArtSrc: coverArtTwelve,
     },
@@ -140,7 +140,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackThirteen,
     metadata: {
-      title: 'Ckay',
+      title: 'Crayon',
       artist: 'Dino',
       coverArtSrc: coverArtThirteen,
     },
@@ -148,7 +148,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackFourteen,
     metadata: {
-      title: 'central',
+      title: 'DJ-Neptune',
       artist: 'Dino',
       coverArtSrc: coverArtFourteen,
     },
@@ -156,7 +156,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackFifteen,
     metadata: {
-      title: 'carlos',
+      title: 'Rexxie',
       artist: 'Dino',
       coverArtSrc: coverArtFifteen,
     },
@@ -164,7 +164,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackSixteen,
     metadata: {
-      title: 'brown',
+      title: 'DJ-Big',
       artist: 'Dino',
       coverArtSrc: coverArtSixteen,
     },
@@ -172,7 +172,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackSeventeen,
     metadata: {
-      title: 'boy-spyc',
+      title: 'Victony',
       artist: 'Dino',
       coverArtSrc: coverArtSeventeen,
     },
@@ -180,7 +180,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackEighteen,
     metadata: {
-      title: 'bobby',
+      title: 'Victony',
       artist: 'Dino',
       coverArtSrc: coverArtEighteen,
     },
@@ -188,7 +188,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackNineteen,
     metadata: {
-      title: 'Av',
+      title: 'Victony',
       artist: 'Dino',
       coverArtSrc: coverArtNineteen,
     },
@@ -196,7 +196,7 @@ const playlist: Playlist = [
   {
     audioSrc: trackTwenty,
     metadata: {
-      title: 'Av',
+      title: 'Victony',
       artist: 'Dino',
       coverArtSrc: coverArtTwenty,
     },
